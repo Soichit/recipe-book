@@ -22,9 +22,9 @@ const barrels: string[] = [
   '@angular/core',
   '@angular/common',
   '@angular/compiler',
-  '@angular/forms',
   '@angular/http',
   '@angular/router',
+  '@angular/forms',
   '@angular/platform-browser',
   '@angular/platform-browser-dynamic',
 
@@ -38,7 +38,7 @@ const barrels: string[] = [
   'app/recipes/recipe-list',
   'app/recipes/recipe-detail',
   'app/shopping-list',
-  'app/recipes/rescipe-start',
+  'app/shopping-list/shopping-list-add',
   'app/recipes/recipe-edit',
   /** @cli-barrel */
 ];
